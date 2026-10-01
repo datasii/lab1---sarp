@@ -27,7 +27,7 @@
 
 **Неправильный ввод (введена строка "abc"):**
 
-![task1_2_err](screenshots/task1_2_err.png)
+![task1_2_err](labs1/screenshots/task1_2_err.png)
 
 ## Задача 4
 
@@ -48,11 +48,11 @@
 
 **Правильный ввод (x = 3):**
 
-![task1_4_ok](screenshots/task1_4_ok.png)
+![task1_4_ok](labs1/screenshots/task1_4_ok.png)
 
 **Неправильный ввод (введена строка "abc"):**
 
-![task1_4_err](screenshots/task1_4_err.png)
+![task1_4_err](labs1/screenshots/task1_4_err.png)
 
 ## Задача 6
 
@@ -73,11 +73,11 @@
 
 **Правильный ввод (x = 'D'):**
 
-![task1_6_ok](screenshots/task1_6_ok.png)
+![task1_6_ok](labs1/screenshots/task1_6_ok.png)
 
 **Неправильный ввод (введено "DD" — больше одного символа):**
 
-![task1_6_err](screenshots/task1_6_err.png)
+![task1_6_err](labs1/screenshots/task1_6_err.png)
 
 ## Задача 8
 
@@ -98,11 +98,11 @@
 
 **Правильный ввод (a=3, b=3, c=3):**
 
-![task1_8_ok](screenshots/task1_8_ok.png)
+![task1_8_ok](labs1/screenshots/task1_8_ok.png)
 
 **Неправильный ввод (введена строка "abc"):**
 
-![task1_8_err](screenshots/task1_8_err.png)
+![task1_8_err](labs1/screenshots/task1_8_err.png)
 
 ## Задача 10
 
@@ -123,11 +123,11 @@
 
 **Правильный ввод (числа 5, 11, 123, 14, 1, 7):**
 
-![task1_10_ok](screenshots/task1_10_ok.png)
+![task1_10_ok](labs1/screenshots/task1_10_ok.png)
 
 **Неправильный ввод (введена строка "abc"):**
 
-![task1_10_err](screenshots/task1_10_err.png)
+![task1_10_err](labs1/screenshots/task1_10_err.png)
 
 # Задание 2
 
@@ -150,11 +150,11 @@
 
 **Правильный ввод (x=8, y=2):**
 
-![task2_2_ok](screenshots/task2_2_ok.png)
+![task2_2_ok](labs1/screenshots/task2_2_ok.png)
 
 **Неправильный ввод (деление на ноль x=5, y=0 — метод корректно возвращает 0):**
 
-![task2_2_err](screenshots/task2_2_err.png)
+![task2_2_err](labs1/screenshots/task2_2_err.png)
 
 ## Задача 4
 
@@ -177,11 +177,11 @@
 
 **Правильный ввод (x=5, y=7):**
 
-![task2_4_ok](screenshots/task2_4_ok.png)
+![task2_4_ok](labs1/screenshots/task2_4_ok.png)
 
 **Неправильный ввод (введена строка "abc"):**
 
-![task2_4_err](screenshots/task2_4_err.png)
+![task2_4_err](labs1/screenshots/task2_4_err.png)
 
 ## Задача 6
 
@@ -202,11 +202,11 @@
 
 **Правильный ввод (x=5, y=7, z=2):**
 
-![task2_6_ok](screenshots/task2_6_ok.png)
+![task2_6_ok](labs1/screenshots/task2_6_ok.png)
 
 **Неправильный ввод (введена строка "abc"):**
 
-![task2_6_err](screenshots/task2_6_err.png)
+![task2_6_err](labs1/screenshots/task2_6_err.png)
 
 ## Задача 8
 
@@ -233,11 +233,11 @@
 
 **Правильный ввод (x=31):**
 
-![task2_8_ok](screenshots/task2_8_ok.png)
+![task2_8_ok](labs1/screenshots/task2_8_ok.png)
 
 **Неправильный ввод (x=200 — вне диапазона [0; 150]):**
 
-![task2_8_err](screenshots/task2_8_err.png)
+![task2_8_err](labs1/screenshots/task2_8_err.png)
 
 ## Задача 10
 
@@ -259,11 +259,11 @@
 
 **Правильный ввод (x = "четверг"):**
 
-![task2_10_ok](screenshots/task2_10_ok.png)
+![task2_10_ok](labs1/screenshots/task2_10_ok.png)
 
 **Неправильный ввод (x = "чг"):**
 
-![task2_10_err](screenshots/task2_10_err.png)
+![task2_10_err](labs1/screenshots/task2_10_err.png)
 
 # Задание 3
 
@@ -285,11 +285,11 @@
 
 **Правильный ввод (x = 5):**
 
-![task3_2_ok](screenshots/task3_2_ok.png)
+![task3_2_ok](labs1/screenshots/task3_2_ok.png)
 
 **Неправильный ввод (x = -3 — вне диапазона [0; 1000]):**
 
-![task3_2_err](screenshots/task3_2_err.png)
+![task3_2_err](labs1/screenshots/task3_2_err.png)
 
 ## Задача 4
 
@@ -309,11 +309,11 @@
 
 **Правильный ввод (x=2, y=5):**
 
-![task3_4_ok](screenshots/task3_4_ok.png)
+![task3_4_ok](labs1/screenshots/task3_4_ok.png)
 
 **Неправильный ввод (y = -1 — вне диапазона [0; 10]):**
 
-![task3_4_err](screenshots/task3_4_err.png)
+![task3_4_err](labs1/screenshots/task3_4_err.png)
 
 ## Задача 6
 
@@ -335,11 +335,11 @@
 
 **Правильный ввод (x = 1111):**
 
-![task3_6_ok](screenshots/task3_6_ok.png)
+![task3_6_ok](labs1/screenshots/task3_6_ok.png)
 
 **Неправильный ввод (введена строка "abc"):**
 
-![task3_6_err](screenshots/task3_6_err.png)
+![task3_6_err](labs1/screenshots/task3_6_err.png)
 
 ## Задача 8
 
@@ -365,11 +365,11 @@
 
 **Правильный ввод (x = 4):**
 
-![task3_8_ok](screenshots/task3_8_ok.png)
+![task3_8_ok](labs1/screenshots/task3_8_ok.png)
 
 **Неправильный ввод (x = 0 — вне диапазона [1; 50]):**
 
-![task3_8_err](screenshots/task3_8_err.png)
+![task3_8_err](labs1/screenshots/task3_8_err.png)
 
 ## Задача 10
 
@@ -389,11 +389,11 @@
 
 **Правильный ввод (угадывание за несколько попыток):**
 
-![task3_10_ok](screenshots/task3_10_ok.png)
+![task3_10_ok](labs1/screenshots/task3_10_ok.png)
 
 **Неправильный ввод (введено число 15 — вне диапазона [0; 9]):**
 
-![task3_10_err](screenshots/task3_10_err.png)
+![task3_10_err](labs1/screenshots/task3_10_err.png)
 
 # Задание 4
 
@@ -416,11 +416,11 @@
 
 **Правильный ввод (arr = "1 2 3 4 2 2 5", x = 2):**
 
-![task4_2_ok](screenshots/task4_2_ok.png)
+![task4_2_ok](labs1/screenshots/task4_2_ok.png)
 
 **Неправильный ввод (введена строка "abc def"):**
 
-![task4_2_err](screenshots/task4_2_err.png)
+![task4_2_err](labs1/screenshots/task4_2_err.png)
 
 ## Задача 4
 
@@ -442,11 +442,11 @@
 
 **Правильный ввод (arr="1 2 3 4 5", x=9, pos=3):**
 
-![task4_4_ok](screenshots/task4_4_ok.png)
+![task4_4_ok](labs1/screenshots/task4_4_ok.png)
 
 **Неправильный ввод (pos = 10 — вне диапазона [0; 5]):**
 
-![task4_4_err](screenshots/task4_4_err.png)
+![task4_4_err](labs1/screenshots/task4_4_err.png)
 
 ## Задача 6
 
@@ -466,11 +466,11 @@
 
 **Правильный ввод (arr = "1 2 3 4 5"):**
 
-![task4_6_ok](screenshots/task4_6_ok.png)
+![task4_6_ok](labs1/screenshots/task4_6_ok.png)
 
 **Неправильный ввод (пустая строка):**
 
-![task4_6_err](screenshots/task4_6_err.png)
+![task4_6_err](labs1/screenshots/task4_6_err.png)
 
 ## Задача 8
 
@@ -491,11 +491,11 @@
 
 **Правильный ввод (arr1="1 2 3", arr2="7 8 9"):**
 
-![task4_8_ok](screenshots/task4_8_ok.png)
+![task4_8_ok](labs1/screenshots/task4_8_ok.png)
 
 **Неправильный ввод (введена строка "abc"):**
 
-![task4_8_err](screenshots/task4_8_err.png)
+![task4_8_err](labs1/screenshots/task4_8_err.png)
 
 ## Задача 10
 
@@ -516,8 +516,8 @@
 
 **Правильный ввод (arr = "1 2 -3 4 -2 2 -5"):**
 
-![task4_10_ok](screenshots/task4_10_ok.png)
+![task4_10_ok](labs1/screenshots/task4_10_ok.png)
 
 **Неправильный ввод (пустая строка):**
 
-![task4_10_err](screenshots/task4_10_err.png)
+![task4_10_err](labs1/screenshots/task4_10_err.png)
