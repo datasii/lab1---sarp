@@ -23,7 +23,7 @@
 
 **Правильный ввод (x = 4568):**
 
-![task1_2_ok](screenshots/task1_2_ok.png)
+![task1_2_ok](labs1/screenshots/task1_2_ok.png)
 
 **Неправильный ввод (введена строка "abc"):**
 
