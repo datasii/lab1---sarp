@@ -23,7 +23,7 @@
 
 ![task1_2_ok](labs1/screenshots/task1_2_ok.png)
 
-**Неправильный ввод **
+**Неправильный ввод**
 
 ![task1_2_err](labs1/screenshots/task1_2_err.png)
 
@@ -66,7 +66,7 @@
 
 ![task1_6_ok](labs1/screenshots/task1_6_ok.png)
 
-**Неправильный ввод (введено "DD" — больше одного символа):**
+**Неправильный ввод**
 
 ![task1_6_err](labs1/screenshots/task1_6_err.png)
 
