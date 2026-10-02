@@ -2,7 +2,7 @@
 
 namespace Lab1
 {
-    /// Класс с задачами лабораторной работы №1
+    // Класс с задачами лабораторной работы №1
     public class Tasks
     {
         // ЗАДАНИЕ 1. МЕТОДЫ
@@ -348,7 +348,6 @@ namespace Lab1
             return result;
         }
 
-        //  ВСПОМОГАТЕЛЬНОЕ
         // Превращает массив в строку вида [1, 2, 3]
         public static string ArrToString(int[] arr)
         {
